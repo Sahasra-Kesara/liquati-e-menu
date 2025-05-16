@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 
 const menuData = {
-  "Rice Dishes": [
+  "Bubble Tea - Tea Base": [
     {
       id: 1,
       name: "Kottu Roti",
@@ -51,7 +51,7 @@ const menuData = {
       image: "https://rakskitchen.net/wp-content/uploads/2012/12/lemon-rice-1.jpg",
     },
   ],
-  "Milkshakes": [
+  "Bubble Tea - Milk Base": [
     {
       id: 9,
       name: "Chocolate Milkshake",
@@ -101,7 +101,7 @@ const menuData = {
       image: "https://www.hungryhuy.com/wp-content/uploads/matcha-latte-vertical-680x1020.jpg",
     },
   ],
-  "Desserts": [
+  "Ice Cream": [
     {
       id: 17,
       name: "Ice Cream",
@@ -151,7 +151,7 @@ const menuData = {
       image: "https://th.bing.com/th/id/OIP.-2P0ncfi4i35dpkiNgyumAHaLI?rs=1&pid=ImgDetMain",
     },
   ],
-  "Snacks": [
+  "Softdrinks": [
     {
       id: 25,
       name: "Samosa",
@@ -177,7 +177,7 @@ const menuData = {
       image: "https://th.bing.com/th/id/OIP.qNUmtZzDGDLqPfoGhGl7KgHaEK?rs=1&pid=ImgDetMain",
     },
   ],
-  "Beverages": [
+  "Sweet": [
     {
       id: 29,
       name: "Lemonade",
@@ -203,7 +203,7 @@ const menuData = {
       image: "https://th.bing.com/th/id/OIP.XHEoHyNNoel330QgV5SRnAHaE8?rs=1&pid=ImgDetMain",
     },
   ],
-  "Soups": [
+  "Savouries": [
     {
       id: 33,
       name: "Tomato Soup",
