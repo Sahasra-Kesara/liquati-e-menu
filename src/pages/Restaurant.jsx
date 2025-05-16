@@ -177,7 +177,7 @@ const menuData = {
       image: "https://th.bing.com/th/id/OIP.qNUmtZzDGDLqPfoGhGl7KgHaEK?rs=1&pid=ImgDetMain",
     },
   ],
-  "Sweet": [
+  "Sweets": [
     {
       id: 29,
       name: "Lemonade",
