@@ -1,6 +1,32 @@
 import { useRef, useState, useEffect } from "react";
 
 const menuData = {
+  "Bubble Tea - Tea Base": [
+    {
+      id: 9,
+      name: "Passion Fruit",
+      price: "LKR 650",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747442910/Passion_Fruit_tvg28b.png",
+    },
+    {
+      id: 10,
+      name: "Mango",
+      price: "LKR 650",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747442866/Mango_q1g1fd.jpg",
+    },
+    {
+      id: 11,
+      name: "Strawberry",
+      price: "LKR 650",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747443850/Strawberry_s40swt.jpg",
+    },
+    {
+      id: 12,
+      name: "Honey & Lemon",
+      price: "LKR 650",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747444023/Honey_Lemon_xxlbiz.png",
+    },
+  ],
   "Bubble Tea - Milk Base": [
     {
       id: 1,
@@ -44,32 +70,6 @@ const menuData = {
       price: "LKR 750",
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747439932/Mango_Shake_yrvnua.jpg",
     }
-  ],
-  "Bubble Tea - Tea Base": [
-    {
-      id: 9,
-      name: "Passion Fruit",
-      price: "LKR 650",
-      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747442910/Passion_Fruit_tvg28b.png",
-    },
-    {
-      id: 10,
-      name: "Mango",
-      price: "LKR 650",
-      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747442866/Mango_q1g1fd.jpg",
-    },
-    {
-      id: 11,
-      name: "Strawberry",
-      price: "LKR 650",
-      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747443850/Strawberry_s40swt.jpg",
-    },
-    {
-      id: 12,
-      name: "Honey & Lemon",
-      price: "LKR 650",
-      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747444023/Honey_Lemon_xxlbiz.png",
-    },
   ],
   "Ice Cream": [
     {
