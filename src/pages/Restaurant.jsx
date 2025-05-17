@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 
 const menuData = {
-  "Bubble Tea - Tea Base": [
+  "Bubble Tea - Milk Base": [
     {
       id: 1,
       name: "KitKat Shake",
@@ -45,7 +45,7 @@ const menuData = {
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747439932/Mango_Shake_yrvnua.jpg",
     }
   ],
-  "Bubble Tea - Milk Base": [
+  "Bubble Tea - Tea Base": [
     {
       id: 9,
       name: "Passion Fruit",
