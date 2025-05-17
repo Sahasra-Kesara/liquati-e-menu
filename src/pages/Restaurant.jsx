@@ -109,108 +109,108 @@ const menuData = {
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747297322/Coconut_Gelato_jeubme.jpg",
     },
   ],
-  "Softdrinks": [
-    {
-      id: 25,
-      name: "Samosa",
-      price: "LKR 150",
-      image: "https://bunkabab.com/wp-content/uploads/2023/08/Punjabi-Samosa-300x300-1.png",
-    },
-    {
-      id: 26,
-      name: "Spring Roll",
-      price: "LKR 200",
-      image: "https://www.thecookingcollective.com.au/wp-content/uploads/2022/08/Vegetable-Spring-Rolls-2-1.jpg",
-    },
-    {
-      id: 27,
-      name: "Pakoras",
-      price: "LKR 250",
-      image: "https://th.bing.com/th/id/OIP.JvkKHkupSLmlqNQCI_aHDwHaHa?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 28,
-      name: "Onion Rings",
-      price: "LKR 350",
-      image: "https://th.bing.com/th/id/OIP.qNUmtZzDGDLqPfoGhGl7KgHaEK?rs=1&pid=ImgDetMain",
-    },
-  ],
-  "Sweets": [
-    {
-      id: 29,
-      name: "Lemonade",
-      price: "LKR 200",
-      image: "https://th.bing.com/th/id/OIP.WJcl6hHARzOK_cRNea5PWAHaKo?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 30,
-      name: "Fresh Lime Soda",
-      price: "LKR 250",
-      image: "https://thumbs.dreamstime.com/b/fresh-lime-soda-glass-drink-sliced-black-background-131421316.jpg",
-    },
-    {
-      id: 31,
-      name: "Iced Tea",
-      price: "LKR 150",
-      image: "https://th.bing.com/th/id/OIP.qa2REj6lRfmmuD4Tg_2wnQHaHa?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 32,
-      name: "Mango Juice",
-      price: "LKR 350",
-      image: "https://th.bing.com/th/id/OIP.XHEoHyNNoel330QgV5SRnAHaE8?rs=1&pid=ImgDetMain",
-    },
-  ],
-  "Savouries": [
-    {
-      id: 33,
-      name: "Tomato Soup",
-      price: "LKR 300",
-      image: "https://www.spoonforkbacon.com/wp-content/uploads/2021/09/tomato-soup-640x853.jpg",
-    },
-    {
-      id: 34,
-      name: "Minestrone Soup",
-      price: "LKR 400",
-      image: "https://familystylefood.com/wp-content/uploads/2012/01/minestrone-soup-familystylefood.jpg",
-    },
-    {
-      id: 35,
-      name: "Lentil Soup",
-      price: "LKR 350",
-      image: "https://www.cookingclassy.com/wp-content/uploads/2017/01/lentil-soup-5.jpg",
-    },
-    {
-      id: 36,
-      name: "Chicken Soup",
-      price: "LKR 500",
-      image: "https://th.bing.com/th/id/OIP.liz05ScTqQLiyvwe-R9MQAHaGM?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 37,
-      name: "Pumpkin Soup",
-      price: "LKR 450",
-      image: "https://th.bing.com/th/id/OIP.HD0b8yBuEgO-ZNrs_I7WjAHaJ4?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 38,
-      name: "Vegetable Soup",
-      price: "LKR 400",
-      image: "https://th.bing.com/th/id/OIP.OmS3ZZMfcoQso3VTQIDBIgHaLH?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 39,
-      name: "Hot and Sour Soup",
-      price: "LKR 450",
-      image: "https://dinnerthendessert.com/wp-content/uploads/2019/02/Hot-and-Sour-Soup.jpg",
-    },
-    {
-      id: 40,
-      name: "Mushroom Soup",
-      price: "LKR 550",
-      image: "https://th.bing.com/th/id/OIP.tNDDZgtb6hH97ns4t8MVPgHaI9?rs=1&pid=ImgDetMain",
-    },
-  ],
+  // "Softdrinks": [
+  //   {
+  //     id: 25,
+  //     name: "Samosa",
+  //     price: "LKR 150",
+  //     image: "https://bunkabab.com/wp-content/uploads/2023/08/Punjabi-Samosa-300x300-1.png",
+  //   },
+  //   {
+  //     id: 26,
+  //     name: "Spring Roll",
+  //     price: "LKR 200",
+  //     image: "https://www.thecookingcollective.com.au/wp-content/uploads/2022/08/Vegetable-Spring-Rolls-2-1.jpg",
+  //   },
+  //   {
+  //     id: 27,
+  //     name: "Pakoras",
+  //     price: "LKR 250",
+  //     image: "https://th.bing.com/th/id/OIP.JvkKHkupSLmlqNQCI_aHDwHaHa?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 28,
+  //     name: "Onion Rings",
+  //     price: "LKR 350",
+  //     image: "https://th.bing.com/th/id/OIP.qNUmtZzDGDLqPfoGhGl7KgHaEK?rs=1&pid=ImgDetMain",
+  //   },
+  // ],
+  // "Sweets": [
+  //   {
+  //     id: 29,
+  //     name: "Lemonade",
+  //     price: "LKR 200",
+  //     image: "https://th.bing.com/th/id/OIP.WJcl6hHARzOK_cRNea5PWAHaKo?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 30,
+  //     name: "Fresh Lime Soda",
+  //     price: "LKR 250",
+  //     image: "https://thumbs.dreamstime.com/b/fresh-lime-soda-glass-drink-sliced-black-background-131421316.jpg",
+  //   },
+  //   {
+  //     id: 31,
+  //     name: "Iced Tea",
+  //     price: "LKR 150",
+  //     image: "https://th.bing.com/th/id/OIP.qa2REj6lRfmmuD4Tg_2wnQHaHa?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 32,
+  //     name: "Mango Juice",
+  //     price: "LKR 350",
+  //     image: "https://th.bing.com/th/id/OIP.XHEoHyNNoel330QgV5SRnAHaE8?rs=1&pid=ImgDetMain",
+  //   },
+  // ],
+  // "Savouries": [
+  //   {
+  //     id: 33,
+  //     name: "Tomato Soup",
+  //     price: "LKR 300",
+  //     image: "https://www.spoonforkbacon.com/wp-content/uploads/2021/09/tomato-soup-640x853.jpg",
+  //   },
+  //   {
+  //     id: 34,
+  //     name: "Minestrone Soup",
+  //     price: "LKR 400",
+  //     image: "https://familystylefood.com/wp-content/uploads/2012/01/minestrone-soup-familystylefood.jpg",
+  //   },
+  //   {
+  //     id: 35,
+  //     name: "Lentil Soup",
+  //     price: "LKR 350",
+  //     image: "https://www.cookingclassy.com/wp-content/uploads/2017/01/lentil-soup-5.jpg",
+  //   },
+  //   {
+  //     id: 36,
+  //     name: "Chicken Soup",
+  //     price: "LKR 500",
+  //     image: "https://th.bing.com/th/id/OIP.liz05ScTqQLiyvwe-R9MQAHaGM?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 37,
+  //     name: "Pumpkin Soup",
+  //     price: "LKR 450",
+  //     image: "https://th.bing.com/th/id/OIP.HD0b8yBuEgO-ZNrs_I7WjAHaJ4?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 38,
+  //     name: "Vegetable Soup",
+  //     price: "LKR 400",
+  //     image: "https://th.bing.com/th/id/OIP.OmS3ZZMfcoQso3VTQIDBIgHaLH?rs=1&pid=ImgDetMain",
+  //   },
+  //   {
+  //     id: 39,
+  //     name: "Hot and Sour Soup",
+  //     price: "LKR 450",
+  //     image: "https://dinnerthendessert.com/wp-content/uploads/2019/02/Hot-and-Sour-Soup.jpg",
+  //   },
+  //   {
+  //     id: 40,
+  //     name: "Mushroom Soup",
+  //     price: "LKR 550",
+  //     image: "https://th.bing.com/th/id/OIP.tNDDZgtb6hH97ns4t8MVPgHaI9?rs=1&pid=ImgDetMain",
+  //   },
+  // ],
 };
 
 
