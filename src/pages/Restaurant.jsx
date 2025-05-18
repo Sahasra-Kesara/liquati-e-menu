@@ -26,6 +26,12 @@ const menuData = {
       price: "LKR 650",
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747444023/Honey_Lemon_xxlbiz.png",
     },
+    {
+      id: 13,
+      name: "Blue Berry",
+      price: "LKR 650",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747579810/Blue_Berry_ehkfso.jpg",
+    }
   ],
   "Bubble Tea - Milk Base": [
     {
@@ -69,7 +75,13 @@ const menuData = {
       name: "Mango Shake",
       price: "LKR 750",
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747439932/Mango_Shake_yrvnua.jpg",
-    }
+    },
+    {
+      id: 8,
+      name: "Oreo Shake",
+      price: "LKR 840",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747576222/Oreo_Shake_pveseg.png",
+    },
   ],
   "Ice Cream": [
     {
