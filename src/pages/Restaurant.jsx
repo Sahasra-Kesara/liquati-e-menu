@@ -82,6 +82,12 @@ const menuData = {
       price: "LKR 840",
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747576222/Oreo_Shake_pveseg.png",
     },
+    {
+      id: 9,
+      name: " Ice Milo",
+      price: "LKR 750",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747743283/iced_Milo_icugg3.png",
+    },
   ],
   "Ice Cream": [
     {
