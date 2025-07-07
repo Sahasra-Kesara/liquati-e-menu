@@ -88,6 +88,12 @@ const menuData = {
       price: "LKR 750",
       image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1747743283/iced_Milo_icugg3.png",
     },
+    {
+      id: 10,
+      name: "Kiwi Shake",
+      price: "LKR 750",
+      image: "https://res.cloudinary.com/dy7vejd0i/image/upload/v1751835657/Kiwi_l8tunw.png"
+    }
   ],
   "Ice Cream": [
     {
